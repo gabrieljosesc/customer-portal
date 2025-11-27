@@ -1,0 +1,33 @@
+{
+  "messages": [
+    {
+      "id": "S3KBh04g04GOIk0JCNNnt",
+      "bookingId": "123",
+      "userId": "Gue2aQY7XjLaxnoO7Q18A",
+      "text": "sample ",
+      "createdAt": "2025-11-27T14:05:25.555Z"
+    },
+    {
+      "id": "MfCiK_hNDwXSgQmxKRFMK",
+      "bookingId": "143",
+      "userId": "Gue2aQY7XjLaxnoO7Q18A",
+      "text": "sample message\n",
+      "createdAt": "2025-11-27T15:41:36.585Z"
+    },
+    {
+      "id": "wKaG3tuBQmYddLSAakzyS",
+      "bookingId": "124",
+      "userId": "Gue2aQY7XjLaxnoO7Q18A",
+      "text": "sample message 3",
+      "createdAt": "2025-11-27T15:44:35.554Z"
+    }
+  ],
+  "users": [
+    {
+      "id": "Gue2aQY7XjLaxnoO7Q18A",
+      "email": "gabbymayuga77@gmail.com",
+      "phone": "09126917115",
+      "token": "a9w0ROPEAU0r_CY_hvvwxH-z"
+    }
+  ]
+}
