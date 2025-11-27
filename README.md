@@ -1,6 +1,15 @@
 # Customer Portal POC
 
 ## Quick Start
+
+### Prerequisites
+- Node.js 16+ 
+- ServiceM8 API token
+
+# Clone the repository
+- git clone https://github.com/gabrieljosesc/customer-portal.git
+- cd customer-portal
+  
 1. Backend: 
     - cd backend
     - cp .env.example .env
